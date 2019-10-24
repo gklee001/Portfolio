@@ -1,0 +1,29 @@
+/* .col-md-4 {
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+} */
+.margin-bottom.card {
+    margin-bottom: 10px;
+}
+.thumbnail {
+    object-fit: scale-down;
+    height: 250px;
+    overflow: hidden;
+    padding: 10px;
+}
+.profile{
+    width: 10px;
+    margin-left: 10px;
+}
+.projects{
+    float: right;
+}
+.aside{
+    position: fixed;
+    /* width: 150px; */
+}
+.body{
+    background-color: bisque;
+}
