@@ -15,10 +15,17 @@
 }
 .profile{
     width: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 5px;
 }
 .projects{
     float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 5px;
 }
 .aside{
     position: fixed;
@@ -26,4 +33,11 @@
 }
 .body{
     background-color: bisque;
+}
+.icon{
+    width: 20px;
+    height: auto;
+}
+.icon hover{
+    background-color: darkgrey;
 }
