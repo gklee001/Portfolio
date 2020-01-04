@@ -8,6 +8,10 @@
     margin-bottom: 10px;
 }
 
+.card-body img:hover {
+    opacity: 0.3;
+}
+
 /* 
 .thumbnail {
     object-fit: scale-down;
