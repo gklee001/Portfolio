@@ -7,37 +7,49 @@
 .margin-bottom.card {
     margin-bottom: 10px;
 }
+
+/* 
 .thumbnail {
     object-fit: scale-down;
     height: 250px;
     overflow: hidden;
     padding: 10px;
 }
-.profile{
+
+.profile {
     width: 10px;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
     padding: 5px;
-}
-.projects{
+} */
+
+/* .projects {
     float: right;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
     padding: 5px;
-}
-.aside{
+} */
+
+.aside {
     position: fixed;
-    /* width: 150px; */
+    margin-left: 5px;
 }
-.body{
+
+.listCardProject {
+    @media only screen and (max-width:)
+}
+
+.body {
     background-color: bisque;
 }
-.icon{
+
+.icon {
     width: 20px;
     height: auto;
 }
-.icon hover{
+
+.icon hover {
     background-color: darkgrey;
 }
